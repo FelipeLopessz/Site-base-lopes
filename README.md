@@ -1,6 +1,6 @@
 # LPX Site Base: Um Template Moderno para Landing Pages
 
-![Prévia do Site](URL_DA_IMAGEM_AQUI)
+![Prévia do Site]((https://felipelopessz.github.io/Site-base-lopes/))
 
   
 
