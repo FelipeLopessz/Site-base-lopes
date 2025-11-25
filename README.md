@@ -4,6 +4,10 @@
 
 
   
+## 🔗 Demo Ao Vivo
+
+Você pode ver o template em ação [**clicando aqui**](https://felipelopessz.github.io/Site-base-lopes/ ).
+
 
 
 ## 📖 Sobre o Projeto
@@ -38,11 +42,3 @@ Este é um template de site "base", criado para servir como um ponto de partida 
 1.  Faça o clone ou o download deste repositório (`git clone https://github.com/felipelopessz/Site-base-lopes.git` ).
 2.  Abra a pasta do projeto e edite os arquivos `index.html` e `pagina02.html`.
 3.  Altere os textos, imagens (na pasta `assets/images`) e estilos (em `assets/css/custom.css`) conforme sua necessidade.
-
-  
-
-
-## 🔗 Demo Ao Vivo
-
-Você pode ver o template em ação [**clicando aqui**](https://felipelopessz.github.io/Site-base-lopes/ ).
-
