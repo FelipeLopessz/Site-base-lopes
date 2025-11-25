@@ -1,6 +1,6 @@
 # LPX Site Base: Um Template Moderno para Landing Pages
 
-![Prévia do Site]((https://felipelopessz.github.io/Site-base-lopes/))
+![Prévia do Site](URL_DA_IMAGEM_AQUI)
 
   
 
@@ -34,9 +34,14 @@ Este é um template de site "base", criado para servir como um ponto de partida 
 
 ## 🚀 Como Utilizar
 
-1.  Faça o clone ou o download deste repositório (`git clone https://github.com/FelipeLopessz/Site-base-lopes.git` ).
+1.  Faça o clone ou o download deste repositório (`git clone https://github.com/felipelopessz/Site-base-lopes.git` ).
 2.  Abra a pasta do projeto e edite os arquivos `index.html` e `pagina02.html`.
 3.  Altere os textos, imagens (na pasta `assets/images`) e estilos (em `assets/css/custom.css`) conforme sua necessidade.
 
   
+
+
+## 🔗 Demo Ao Vivo
+
+Você pode ver o template em ação [**clicando aqui**](https://felipelopessz.github.io/Site-base-lopes/ ).
 
